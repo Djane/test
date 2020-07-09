@@ -1,9 +1,0 @@
-META-INF\services\io.micronaut.inject.BeanDefinitionReference
-com\example\$CookieControllerDefinition.class
-com\example\$CookieServiceDefinitionClass.class
-com\example\Application.class
-com\example\CookieController.class
-com\example\$CookieServiceDefinition.class
-com\example\$CookieControllerDefinition$$exec1.class
-com\example\$CookieControllerDefinitionClass.class
-com\example\CookieService.class
