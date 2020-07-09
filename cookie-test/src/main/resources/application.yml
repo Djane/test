@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: cookieTest
+  session:
+    http:
+      cookie-name: test
+      cookie-same-site: Lax
+      base64encode: false
+      cookie-secure: false
+      cookie-max-age: 365d
+
